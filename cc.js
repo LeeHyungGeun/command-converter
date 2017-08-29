@@ -1,1 +1,0 @@
-const commandCrawler = require('./dist');
