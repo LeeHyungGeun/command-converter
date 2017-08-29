@@ -1,0 +1,32 @@
+{
+  "name": "html-converter-to-jsx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node ./index",
+    "debug": "babel-node --nolazy --inspect-brk=5252 ./index https://www.linkedin.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeHyungGeun/html-converter-to-jsx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeHyungGeun/html-converter-to-jsx/issues"
+  },
+  "homepage": "https://github.com/LeeHyungGeun/html-converter-to-jsx#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "callsite": "^1.0.0",
+    "cheerio": "^1.0.0-rc.2",
+    "npm-run-all": "^4.1.0",
+    "request": "^2.81.0"
+  }
+}
