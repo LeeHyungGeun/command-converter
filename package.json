@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeeHyungGeun/html-converter-to-jsx.git"
+    "url": "git+https://github.com/LeeHyungGeun/command-converter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LeeHyungGeun/html-converter-to-jsx/issues"
+    "url": "https://github.com/LeeHyungGeun/command-converter/issues"
   },
-  "homepage": "https://github.com/LeeHyungGeun/html-converter-to-jsx#readme",
+  "homepage": "https://github.com/LeeHyungGeun/command-converter#readme",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
