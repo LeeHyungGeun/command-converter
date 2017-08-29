@@ -1,11 +1,11 @@
 {
-  "name": "html-converter-to-jsx",
+  "name": "command-converter",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "babel-node ./index",
-    "debug": "babel-node --nolazy --inspect-brk=5252 ./index https://www.linkedin.com/"
+    "debug": "babel-node --nolazy --inspect-brk=5252 ./index http://www.naver.com"
   },
   "repository": {
     "type": "git",
