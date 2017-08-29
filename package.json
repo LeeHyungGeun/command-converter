@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/LeeHyungGeun/command-converter.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cli", "converter", "react", "jsx"],
+  "author": "leehyunggeun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LeeHyungGeun/command-converter/issues"
